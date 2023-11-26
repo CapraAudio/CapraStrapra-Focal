@@ -5,7 +5,7 @@ This Comfort Strap is designs for the Focal series of headphones. This should fi
 You can purchase a premade version [here](http://capraaudio.com/)!
 You will still have to install it yourself, though it will be 3d printed and put together before shipping.
 
-Installation instructions are located [here](https://github.com/CapraAudio/CapraStrapra-Focal/blob/main/Install-Instructions.md). 
+Installation instructions are located [here](https://github.com/CapraAudio/CapraStrapra-Focal/blob/main/Install-Instructions). 
 
 Printing instructions are located [here](https://github.com/CapraAudio/CapraStrapra-Focal/blob/main/Printing-Instructions.md). 
 
