@@ -1,6 +1,6 @@
 # CapraStrapra-Focal
 
-This Comfort Strap is designs for the Focal series of headphones. This should fit on the Focal Elex, Elegia, Utopia, Clear, Clear MG, Stellia, Celestee, 
+This Comfort Strap is designs for the Focal series of headphones. This should fit on the Focal Elex, Elegia, Utopia, Clear, Clear MG, Stellia, Celestee, and Radiance.
 
 You can purchase a premade version [here](http://capraaudio.com/)!
 You will still have to install it yourself, though it will be 3d printed and put together before shipping.
