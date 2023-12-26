@@ -1,4 +1,4 @@
-# Install Instructions
+# Installation Instructions
 
 Wrap each end of the Comfort Strap around the yokes of the headband, making sure the beveled side is facing down.
 
@@ -11,3 +11,5 @@ Next, press the clips over each end of the Comfort Strap as shown below.
 Then, make sure the clip fits snuggly with the yolk.
 
 ![20231126_131931](https://github.com/CapraAudio/CapraStrapra-Focal/assets/122894651/d7a73d1d-a68a-4415-8bf0-0c88b61cd647)
+
+If the strap is secure, then you're set and can enjoy your new suspension strap!
