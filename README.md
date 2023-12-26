@@ -6,7 +6,9 @@ This Comfort Strap is designs for most headphones Focal makes. <p>This should fi
 
 ---
 
-You can purchase a premade version [here on our etsy page](https://www.etsy.com/listing/1606114182/focal-comfort-strap)!<br>Do note that you will still have to install it yourself, though it will be 3d printed before shipping.
+## Premade Straps
+
+You can purchase a premade version [here on our etsy page](https://www.etsy.com/listing/1606114182/focal-comfort-strap)!<br>**Do note that you will still have to install it yourself**, though it will be 3d printed before shipping.
 
 ---
 
@@ -16,3 +18,4 @@ You can purchase a premade version [here on our etsy page](https://www.etsy.com/
 - [Printing instructions](https://github.com/CapraAudio/CapraStrapra-Focal/blob/main/Printing-Instructions.md)
 - [Support Discord](https://discord.com/invite/fb4HdDvErF)
 - [Etsy Page](https://www.etsy.com/listing/1606114182/focal-comfort-strap)
+- [Squig.Link](https://capraaudio.squig.link/Headphones/)
